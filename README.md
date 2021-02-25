@@ -1,4 +1,12 @@
 # Anywhere Fitness
+https://github.com/Anywhere-Fitness-trackteam-118
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/674f7275-c11f-49b6-bc6b-3dc2d4b5ad68/deploy-status)](https://app.netlify.com/sites/admiring-wilson-f2c537/deploys)
+
+## Project Memebers
+[Ian Tucker](https://github.com/Iandecisiv)
+
+[Bradley Dion](https://github.com/Bradleydion)
 
 ## Table of contents
 
@@ -13,7 +21,7 @@ classes wherever they might be held.
 
 ## <a name="api-endpoints"></a>API endpoints
 
-### https://anytime-fitness.herokuapp.com
+### https://anywhere-fitness-tt118.herokuapp.com/
 
 ### **_Authentication (for login)_**
 
